@@ -1,1 +1,0 @@
-You have 2 datasets try to make inner joing between them first.
